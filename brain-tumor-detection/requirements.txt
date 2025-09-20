@@ -1,0 +1,9 @@
+Core dependencies
+opencv-python
+numpy
+matplotlib
+
+Optional but recommended
+scikit-image   # extra image processing utilities
+scipy          # scientific computing, often used with NumPy
+jupyter        # if you want to run this in notebooks
